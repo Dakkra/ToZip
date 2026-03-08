@@ -52,3 +52,8 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Rider
+*./idea/*
+*.idea
+ToZip.sln.DotSettings.user
